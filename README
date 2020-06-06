@@ -3,11 +3,19 @@
 Elad Zohar
 Spring 2020
 
--
-Projects:
-Packet routing and network building
+DESCRIPTION ----------
+
+Python files used in Linux system to simulate computer network and network traffic
+
+
+DIRECTORIES ----------
 
 -
-Files:
+Packet_Filtering            ICMP and ARP packet filtering.
 
+-
+Simple_Router               Ipv4 and ICMP packet filtering with untrusted host in network.
+
+-
+Topology                    Basic topological structure.
 
