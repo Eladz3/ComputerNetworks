@@ -12,6 +12,9 @@ FILES
 lab3.pdf                 PDF containing screenshots and explinations of commands run with lab3.py and lab3controller.py
 
 -
+lab3.py                  4 host 1 switch topology controlled by lab3controller.py
+
+-
 lab3controller.py        Python code used for firewall
 
 -
